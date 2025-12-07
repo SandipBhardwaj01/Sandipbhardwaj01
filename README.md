@@ -4,7 +4,7 @@
 - 🔭 I build dynamic, web-based platforms and real-time analytics pipelines.
 - 🌱 Currently exploring modern web stacks and event-driven data systems.
 - 💬 Reach me at: bhardwajsandy6@gmail.com
-- 🔗 Connect: [GitHub](https://github.com/SandipBhardwaj) • [LinkedIn](https://www.linkedin.com/in/sandip-bhardwaj-593382342/) • [LeetCode](https://leetcode.com/u/Sandyb001/)
+- 🔗 Connect: [GitHub](https://github.com/SandipBhardwaj01) • [LinkedIn](https://www.linkedin.com/in/sandip-bhardwaj-593382342/) • [LeetCode](https://leetcode.com/u/Sandyb001/)
 
 ---
 
@@ -23,7 +23,7 @@ I develop end-to-end web applications and data pipelines that help businesses ma
 - **Real-Time Data Pipeline for E-commerce Analytics**  
   Real-time pipeline design for analytics and monitoring: https://github.com/SandipBhardwaj/Real-Time-Data-Pipeline-for-E-commerce-Analytics.git. :contentReference[oaicite:3]{index=3}
 
-(See more projects on my GitHub: https://github.com/SandipBhardwaj) :contentReference[oaicite:3]{index=3}
+(See more projects on my GitHub: https://github.com/SandipBhardwaj01) :contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -47,7 +47,7 @@ I develop end-to-end web applications and data pipelines that help businesses ma
 ## Contact
 - ✉️ bhardwajsandy6@gmail.com  
 - 📞 +91 99758 24634  
-- 🔗 GitHub: https://github.com/SandipBhardwaj  
+- 🔗 GitHub: https://github.com/SandipBhardwaj01
 - 🔗 LinkedIn: https://www.linkedin.com/in/sandip-bhardwaj-593382342/  
 - 🧩 LeetCode: https://leetcode.com/u/Sandyb001/ :contentReference[oaicite:6]{index=6}
 
