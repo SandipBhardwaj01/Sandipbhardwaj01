@@ -14,11 +14,14 @@ I develop end-to-end web applications and data pipelines that help businesses ma
 ---
 
 ## Key Projects
-- **E-commerce Website**  
-  Source & demo: https://github.com/SandipBhardwaj/E-commerce-website.git. :contentReference[oaicite:1]{index=1}
+- **A-B-Testing-Platform-For-Product-Growth-Project**  
+  Source & demo: https://github.com/SandipBhardwaj01/A-B-Testing-Platform-For-Product-Growth-Project.git. :contentReference[oaicite:1]{index=1}
+
+- **Amazon-Product-Pricing-Review-Intelligence-Project**
+  Source & demo: https://github.com/SandipBhardwaj01/Amazon-Product-Pricing-Review-Intelligence-Project.git. :contentReference[oaicite:2]{index=2}
 
 - **Real-Time Data Pipeline for E-commerce Analytics**  
-  Real-time pipeline design for analytics and monitoring: https://github.com/SandipBhardwaj/Real-Time-Data-Pipeline-for-E-commerce-Analytics.git. :contentReference[oaicite:2]{index=2}
+  Real-time pipeline design for analytics and monitoring: https://github.com/SandipBhardwaj/Real-Time-Data-Pipeline-for-E-commerce-Analytics.git. :contentReference[oaicite:3]{index=3}
 
 (See more projects on my GitHub: https://github.com/SandipBhardwaj) :contentReference[oaicite:3]{index=3}
 
